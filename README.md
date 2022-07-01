@@ -1,5 +1,4 @@
-# E5-Rclone-Actions-Repo
-本仓库地址：https://github.com/ChirmyRam/E5-Rclone-Actions-Repo
+
 
 > 基本原理：在Actions中每隔一天在北京时间早上6点自动使用Rclone调用OneDrive使Office E5订阅保持活跃，同时将配置文件反向提交到仓库保持Github活跃，玄学续期，不保证百分百成功。
 
